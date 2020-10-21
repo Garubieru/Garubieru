@@ -1,6 +1,6 @@
 # Gabriel Morishita
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/927063683523401396/DFD3623BB7946F0315ADC8321E54EFF4014047AC/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="200" height="200" />
+![Alt Text](https://media2.giphy.com/media/CoaTypFWX7vmoO09pm/giphy.gif)
 
 ### Hey!
 
