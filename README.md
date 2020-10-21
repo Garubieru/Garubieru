@@ -1,11 +1,6 @@
-<p align="center">
-    <img align="center"  width="500" src="https://media2.giphy.com/media/CoaTypFWX7vmoO09pm/giphy.gif" />
-</p>
-
 ### Hey!
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Garubieru&show_icons=true&theme=dracula)
-
 
 ## Contacts
 <a target="_blank" href="https://www.linkedin.com/in/gabriel-da-silva-morishita-garbi-0792ab1ab/">
@@ -33,4 +28,8 @@ Hi. I'm a student of computer science and a web developer looking foward to be a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garubieru&layout=compact)
+
+<p align="center">
+    <img align="center"  width="500" src="https://media2.giphy.com/media/CoaTypFWX7vmoO09pm/giphy.gif" />
+</p>
 
