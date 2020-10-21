@@ -29,7 +29,6 @@ Hi. I'm a student of computer science and a web developer looking foward to be a
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garubieru&layout=compact)
 
-<p align="center">
-    <img align="center"  width="500" src="https://media2.giphy.com/media/CoaTypFWX7vmoO09pm/giphy.gif" />
-</p>
+
+<img width="500" src="https://media2.giphy.com/media/CoaTypFWX7vmoO09pm/giphy.gif" />
 
