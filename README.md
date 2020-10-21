@@ -1,5 +1,3 @@
-# Gabriel Morishita
-
 ![Alt Text](https://media2.giphy.com/media/CoaTypFWX7vmoO09pm/giphy.gif)
 
 ### Hey!
