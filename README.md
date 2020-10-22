@@ -6,10 +6,10 @@
 Hi, my name is Gabriel and I'm 19. I'm passionate on web development, especially on the fullstack area. Besides thar, I'm looking to learn and face new challenges to become a good developer.
 
 ## Contacts
-<a target="_blank" href="https://www.linkedin.com/in/gabriel-da-silva-morishita-garbi-0792ab1ab/"> LinkedIn:
+<a target="_blank" href="https://www.linkedin.com/in/gabriel-da-silva-morishita-garbi-0792ab1ab/"> 
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
 </a>
-<a target="_blank" href="mailto:gabrielmorishita@gmail.com"> Gmail:
+<a target="_blank" href="mailto:gabrielmorishita@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> 
 </a>
 
@@ -29,6 +29,4 @@ Hi, my name is Gabriel and I'm 19. I'm passionate on web development, especially
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garubieru&layout=compact)
 
-
-<img width="500" src="https://media2.giphy.com/media/CoaTypFWX7vmoO09pm/giphy.gif" />
 
