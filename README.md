@@ -6,7 +6,7 @@
 Hi, my name is Gabriel and I'm 19. I'm passionate on web development, especially on fullstack. Besides that, I'm looking to learn and face new challenges to become a good developer.
 
 ## Contacts
-<a target="_blank" href="https://www.linkedin.com/in/gabriel-da-silva-morishita-garbi-0792ab1ab/"> 
+<a target="_blank" href="https://www.linkedin.com/in/gamorishita/"> 
   <img align="left" alt="LinkdeIN" height="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
 </a>
 <a target="_blank" href="mailto:gabrielmorishita@gmail.com">
