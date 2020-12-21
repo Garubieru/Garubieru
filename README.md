@@ -3,7 +3,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Garubieru&show_icons=true&theme=dracula)
 
 ## About
-Hi, my name is Gabriel and I'm 19. I'm passionate on web development, especially on fullstack. Besides that, I'm looking to learn and face new challenges to become a good developer.
+Hi, my name is Gabriel and I'm 19. I'm passionate on fullstack development. Besides that, I'm looking to learn and face new challenges to become a good developer.
 
 ## Contacts
 <a target="_blank" href="https://www.linkedin.com/in/gamorishita/"> 
