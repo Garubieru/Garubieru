@@ -7,10 +7,10 @@ Hi, my name is Gabriel and I'm 19. I'm passionate on fullstack development. Besi
 
 ## Contacts
 <a target="_blank" href="https://www.linkedin.com/in/gamorishita/"> 
-  <img align="left" alt="LinkdeIN" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" /> 
+  <img align="left" alt="LinkedIn" height="40px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a>
 <a target="_blank" href="mailto:gabrielmorishita@gmail.com">
-  <img align="left" alt="Gmail" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" /> 
+  <img align="left" alt="Gmail" height="40px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 </a>
 
 <br>
