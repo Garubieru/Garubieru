@@ -1,24 +1,9 @@
-### Hey!
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Garubieru&show_icons=true&theme=dracula)
-
-## About
+## About me
 Hi, my name is Gabriel and I'm 19. I'm passionate on fullstack development. Besides that, I'm looking to learn and face new challenges to become a good developer.
 
 ## Contacts
-<code>
-  <a target="_blank" href="https://www.linkedin.com/in/gamorishita/">
-    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  </a>
-</code>
-<code>
-  <a target="_blank" href="mailto:gabrielmorishita@gmail.com">
-    ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-  </a>
-</code>
-
-<br>
-<br>
+<code><a target="_blank" href="https://www.linkedin.com/in/gamorishita/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a></code>
+<code><a target="_blank" href="mailto:gabrielmorishita@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a></code>
 
 ## Languages and Tools:
 <code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</code>
@@ -29,6 +14,8 @@ Hi, my name is Gabriel and I'm 19. I'm passionate on fullstack development. Besi
 <code>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</code>
 <code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code>
 
+<br>
+<br>
 
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Garubieru&show_icons=true&theme=dracula)
 
