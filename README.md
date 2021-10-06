@@ -1,5 +1,5 @@
 ## About me
-Hi, my name is Gabriel and I'm 19. I'm passionate on fullstack development. Besides that, I'm looking to learn and face new challenges to become a good developer.
+Hi, my name is Gabriel and I'm 20. I'm passionate on fullstack development. Besides that, I'm looking to learn and face new challenges to become a good developer.
 
 ## Contacts
 <code><a target="_blank" href="https://www.linkedin.com/in/gamorishita/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a></code>
