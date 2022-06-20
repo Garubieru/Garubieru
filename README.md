@@ -1,6 +1,7 @@
 ## About me
 - 💼 Working at: Hospital Israelita Albert Einstein
 - 🎓 University: Universidade Presbiteriana Mackenzie
+- 📚 Area: Computer Science 
 
 ## Contacts
 <code><a target="_blank" href="https://www.linkedin.com/in/gamorishita/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a></code>
