@@ -1,4 +1,4 @@
-## 🥳 About me:
+## 👤 About me:
 - 💼 **Working at:** Hospital Israelita Albert Einstein
 - 👨‍💻 **Role:** Full stack Developer
 - 🎓 **University:** Universidade Presbiteriana Mackenzie
