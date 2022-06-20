@@ -17,9 +17,6 @@
 <code>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</code>
 <code>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</code>
 
-<br>
-<br>
-
 ## 📊 Stats:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Garubieru&show_icons=true&theme=dracula)
 
