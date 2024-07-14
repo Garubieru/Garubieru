@@ -1,6 +1,6 @@
 ## 👤 About me:
 - 💼 **Working at:** Hospital Israelita Albert Einstein
-- 👨‍💻 **Role:** Full Stack Developer
+- 👨‍💻 **Role:** Senior Software Engineer
 - 🎓 **University:** Universidade Presbiteriana Mackenzie
 - 📚 **Area:** Computer Science 
 
